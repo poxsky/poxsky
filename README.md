@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <!-- ![saturn](https://github.com/user-attachments/assets/3ff73a31-2d57-4f01-bbc9-1bf11c3acadb) -->
 
 <p align="right">
-<img src="https://github.com/user-attachments/assets/31b288e9-3269-4d1d-9525-f2b3eef738c1" alt="Saturn" width="300"/>
+<img src="https://2.bp.blogspot.com/-MAwuSylWK-0/U8SzcgQOsiI/AAAAAAAAA0Q/193oWnFmhEE/s1600/Kali+Linux+HD+Wallpaper+collection.png" alt="Saturn" width="300"/>
 </p>
 
 
@@ -23,16 +23,16 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Name Banner -->
 <p align="center">
-  <a href="https://github.com/1hehaq">
-    <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMzUsInciOjEyNTAsImZzIjoxMDgsImZnYyI6IiNFN0NGQUEiLCJiZ2MiOiIjMDAwMDAwIiwidCI6MX0/SmhlaGFxIA/karasha.png" alt="1hehaq" width="400">
+  <a href="https://github.com/poxsky">
+    <img src="https://2.bp.blogspot.com/-MAwuSylWK-0/U8SzcgQOsiI/AAAAAAAAA0Q/193oWnFmhEE/s1600/Kali+Linux+HD+Wallpaper+collection.png" alt="poxsky" width="400">
   </a>
 </p>
 
 <!-- Follow Buttons -->
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=1hehaq&color=E7CFAA"><img src="https://komarev.com/ghpvc/?username=1hehaq&color=E7CFAA" alt="Profile Views"></a>
-  <a href="https://github.com/1hehaq"><img src="https://img.shields.io/github/followers/1hehaq?label=Follow&style=social" alt="GitHub followers"></a>
-  <a href="https://twitter.com/1hehaq"><img src="https://img.shields.io/twitter/follow/1hehaq?label=Follow&style=social" alt="Twitter Follow"></a>
+  <a href="https://komarev.com/poxsky/?username=poxsky&color=E7CFAA"><img src="https://komarev.com/ghpvc/?username=1poxsky&color=E7CFAA" alt="Profile Views"></a>
+  <a href="https://github.com/poxsky"><img src="https://img.shields.io/github/followers/poxsky?label=Follow&style=social" alt="GitHub followers"></a>
+  <a href="https://twitter.com/poxsky"><img src="https://img.shields.io/twitter/follow/poxsky?label=Follow&style=social" alt="Twitter Follow"></a>
 </p>
 
 </div>
@@ -41,13 +41,13 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Who Am I -->
 <h2 align="center">
-  <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMDgsInciOjEyNTAsImZzIjo4NiwiZmdjIjoiI0U3Q0ZBQSIsImJnYyI6IiMwMDAwMDAiLCJ0IjoxfQ/V2hvIEFtIEk/karasha.png" width="200" alt="Who Am I">
+  <img src="[https://2.bp.blogspot.com/-MAwuSylWK-0/U8SzcgQOsiI/AAAAAAAAA0Q/193oWnFmhEE/s1600/Kali+Linux+HD+Wallpaper+collection.png]" width="200" alt="Who Am I">
 </h2>
 
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/1hehaq"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&vCenter=true&width=435&lines=Script+Kiddie;Bug+Bounty+Hunter;Web3%20Dev%20%26%20Audit;Solidity+•+Bash+•+Python+Dev" alt="Typing SVG" align="center"/></a>
+  <a href="https://github.com/poxsky"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&vCenter=true&width=435&lines=Script+Kiddie;Bug+Bounty+Hunter;Web3%20Dev%20%26%20Audit;Solidity+•+Bash+•+Python+Dev" alt="Typing SVG" align="center"/></a>
 </p>
 
   <img src="https://github.com/user-attachments/assets/51542c5e-a09f-4c46-9ffd-e7b3046fa459" align="left" width="50" height="50" alt="image"/>
@@ -63,7 +63,7 @@ class SecurityResearcher:
         self.name = "Haq"
         self.role = "Security Researcher, Web Developer"
         self.language_spoken = ["en_US"]
-        self.portfolio = "https://1hehaq-portfolio.pages.dev"
+        self.portfolio = "https://poxsky-portfolio.pages.dev"
 
     def say_hi(self):
         print("Thanks for stopping by!")
@@ -79,8 +79,8 @@ me.say_hi()
 
 <!-- Quote -->
 <div align="right">
-  <a href="https://x.com/1hehaq"><img src="https://github.com/user-attachments/assets/51542c5e-a09f-4c46-9ffd-e7b3046fa459" align="right" width="50" height="50" alt="image" style="margin-bottom: 20px;" style="margin-top: 20px;"/></a>
-  <a href="https://github.com/1hehaq"><img src="https://github.com/user-attachments/assets/dab8301b-24da-4e13-9a98-11519a98b26e" alt="tweet-quote" width="400" style="margin-bottom: 20px;"/></a>
+  <a href="https://instagram.com/pox_sky_01"><img src="https://github.com/user-attachments/assets/51542c5e-a09f-4c46-9ffd-e7b3046fa459" align="right" width="50" height="50" alt="image" style="margin-bottom: 20px;" style="margin-top: 20px;"/></a>
+  <a href="https://github.com/poxsky"><img src="https://github.com/user-attachments/assets/dab8301b-24da-4e13-9a98-11519a98b26e" alt="tweet-quote" width="400" style="margin-bottom: 20px;"/></a>
 </div>
 
 </div>
@@ -93,7 +93,7 @@ me.say_hi()
 
   <!-- Knowledge & Skills -->
 <p align="left" style="display: flex; align-items: center;">
-  <a href="https://x.com/1hehaq"><img src="https://github.com/user-attachments/assets/51542c5e-a09f-4c46-9ffd-e7b3046fa459" width="50" height="50" alt="image" style="margin-right: 50px;"/></a>
+  <a href="https://x.com/poxsky"><img src="https://github.com/user-attachments/assets/51542c5e-a09f-4c46-9ffd-e7b3046fa459" width="50" height="50" alt="image" style="margin-right: 50px;"/></a>
   <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMDgsInciOjEyNTAsImZzIjo4NiwiZmdjIjoiI0U3Q0ZBQSIsImJnYyI6IiMwMDAwMDAiLCJ0IjoxfQ/IEtub3dsZWRnZSA8Lz4gU2tpbGxz/karasha.png" width="250" alt="Knowledge & Skills"/>
 </p>
 
@@ -108,7 +108,7 @@ me.say_hi()
       <img src="https://img.shields.io/badge/.go-00ADD8?style=for-the-badge&logo=go&logoColor=E7CFAA&color=0d1117" alt=".go" />
       <img src="https://img.shields.io/badge/.sh-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=E7CFAA&color=0d1117" alt=".sh" />
       <img src="https://img.shields.io/badge/.py-3776AB?style=for-the-badge&logo=python&logoColor=E7CFAA&color=0d1117" alt=".py" />
-      <img src="https://img.shields.io/badge/.c-00599C?style=for-the-badge&logo=c&logoColor=E7CFAA&color=0d1117" alt=".c" />
+      <img src="https://img.shields.io/badge/.c-00599C?style=for-the-badge&logo=c++&logoColor=E7CFAA&color=0d1117" alt=".c" />
       <img src="https://img.shields.io/badge/.java-007396?style=for-the-badge&logo=java&logoColor=E7CFAA&color=0d1117" alt=".java" />
       <img src="https://img.shields.io/badge/.cpp-F34B7F?style=for-the-badge&logo=c%2B%2B&logoColor=E7CFAA&color=0d1117" alt=".cpp" />
       <img src="https://img.shields.io/badge/.js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=E7CFAA&color=0d1117" alt=".js" />
@@ -201,26 +201,26 @@ graph TB
 <div align="right" style="border: 2px solid #E7CFAA; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
 
   <p align="right" style="display: flex; align-items: center;">
-    <a href="https://x.com/1hehaq"><img src="https://github.com/user-attachments/assets/51542c5e-a09f-4c46-9ffd-e7b3046fa459" width="50" height="50" alt="image" style="margin-left: 10px;" align="right"/></a>
+    <a href="https://x.com/poxsky"><img src="https://github.com/user-attachments/assets/51542c5e-a09f-4c46-9ffd-e7b3046fa459" width="50" height="50" alt="image" style="margin-left: 10px;" align="right"/></a>
     <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMDgsInciOjEyNTAsImZzIjo4NiwiZmdjIjoiI0U3Q0ZBQSIsImJnYyI6IiMwMDAwMDAiLCJ0IjoxfQ/cHJvamVjdHM=/karasha.png" width="100" alt="projects">
   </p>
 
 
 <p align="right">
-<a href="https://github.com/1hehaq/oty.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=oty&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
+<a href="https://github.com/poxsky/oty.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=poxsky&repo=oty&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
 <a href="https://tryhaqme.github.io/ReadTheSource/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tryhaqme&repo=ReadTheSource&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
 <a href="https://github.com/coffinxp/lostools.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coffinxp&repo=lostools&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
-<a href="https://reconhawk.pages.dev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=reconhawk.doc&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
-<a href="https://github.com/1hehaq/doxo.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=doxo&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
-<a href="https://github.com/1hehaq/greb.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=greb&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
-<a href="https://github.com/1hehaq/shef.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=shef&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
-<!-- <a href="https://github.com/1hehaq/3PleB.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=3PleB&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a> -->
-<a href="https://github.com/1hehaq/pdsi.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=pdsi&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
-<!-- <a href="https://1hehaq.github.io/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=portfolio&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a> -->
-<!-- <a href="https://github.com/1hehaq/cantc.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=cantc&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a> -->
-<!-- <a href="https://github.com/1hehaq/haq.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=haq&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a> -->
-<!-- <a href="https://gutz.pages.dev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=guts.ai&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a> -->
-<!-- <a href="https://1hehaq.github.io/website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=website&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a> -->
+<a href="https://reconhawk.pages.dev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=poxsky&repo=reconhawk.doc&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
+<a href="https://github.com/poxsky/doxo.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=poxsky&repo=doxo&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
+<a href="https://github.com/poxsky/greb.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=poxsky&repo=greb&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
+<a href="https://github.com/poxsky/shef.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=poxsky&repo=shef&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
+<!-- <a href="https://github.com/poxsky/3PleB.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=poxsky&repo=3PleB&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a> -->
+<a href="https://github.com/poxsky/pdsi.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=poxsky&repo=pdsi&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
+<!-- <a href="https://poxsky.github.io/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=poxsky&repo=portfolio&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a> -->
+<!-- <a href="https://github.com/poxsky/cantc.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=poxsky&repo=cantc&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a> -->
+<!-- <a href="https://github.com/poxsky/haq.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=poxsky&repo=haq&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a> -->
+<!-- <a href="https://gutz.pages.dev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=poxsky&repo=guts.ai&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a> -->
+<!-- <a href="https://poxsky.github.io/website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=poxsky&repo=website&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a> -->
 </p>
 
 </div>
@@ -244,11 +244,11 @@ graph TB
 
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #0D1117; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1hehaq&langs_count=6&layout=compact&title_color=E7CFAA&text_color=E7CFAA&bg_color=0D1117&border_color=30363D&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="355" height="175" style="margin-right: 10px;" />
-    <img src="https://streak-stats.demolab.com?user=1hehaq&background=0D1117&ring=E7CFAA&fire=E7CFAA&currStreakNum=E7CFAA&sideNums=E7CFAA&currStreakLabel=E7CFAA&sideLabels=E7CFAA&dates=E7CFAA&stroke=30363D&hide_border=true" alt="GitHub Streak" width="465" height="175" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poxsky&langs_count=6&layout=compact&title_color=E7CFAA&text_color=E7CFAA&bg_color=0D1117&border_color=30363D&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="355" height="175" style="margin-right: 10px;" />
+    <img src="https://streak-stats.demolab.com?user=poxsky&background=0D1117&ring=E7CFAA&fire=E7CFAA&currStreakNum=E7CFAA&sideNums=E7CFAA&currStreakLabel=E7CFAA&sideLabels=E7CFAA&dates=E7CFAA&stroke=30363D&hide_border=true" alt="GitHub Streak" width="465" height="175" />
   </div>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1hehaq&bg_color=0D1117&color=E7CFAA&line=E7CFAA&point=E7CFAA&area_color=E7CFAA&area=true&hide_border=true&custom_title=%20" width="850" height="300" alt="Contribution Constellation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poxsky&bg_color=0D1117&color=E7CFAA&line=E7CFAA&point=E7CFAA&area_color=E7CFAA&area=true&hide_border=true&custom_title=%20" width="850" height="300" alt="Contribution Constellation"/>
 </div>
 
 </div>
@@ -280,9 +280,9 @@ graph TB
 </h2>
 
 <p align="center">
-  <a href="https://x.com/1hehaq"><img src="https://img.shields.io/badge/1hehaq-1DA1F2?style=for-the-badge&logo=X&logoColor=E7CFAA&color=0d1117" alt="Twitter" /></a>
-  <a href="https://www.instagram.com/1hehaq" target="_blank"><img src="https://img.shields.io/badge/1hehaq-E4405F?style=for-the-badge&logo=instagram&logoColor=E7CFAA&color=0d1117" alt="Instagram" /></a>
-  <a href="https://www.linkedin.com/in/1hehaq"><img src="https://img.shields.io/badge/1hehaq-0077B5?style=for-the-badge&logo=linkedin&logoColor=E7CFAA&color=0d1117" alt="LinkedIn" /></a>
+  <a href="https://x.com/poxsky"><img src="https://img.shields.io/badge/poxsky-1DA1F2?style=for-the-badge&logo=X&logoColor=E7CFAA&color=0d1117" alt="Twitter" /></a>
+  <a href="https://www.instagram.com/poxsky" target="_blank"><img src="https://img.shields.io/badge/poxsky-E4405F?style=for-the-badge&logo=instagram&logoColor=E7CFAA&color=0d1117" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/poxsky"><img src="https://img.shields.io/badge/poxsky-0077B5?style=for-the-badge&logo=linkedin&logoColor=E7CFAA&color=0d1117" alt="LinkedIn" /></a>
   <a href="https://t.me/th3haq"><img src="https://img.shields.io/badge/th3haq-12100E?style=for-the-badge&logo=telegram&logoColor=E7CFAA&color=0d1117" alt="Telegram" /></a>
 </p>
 
